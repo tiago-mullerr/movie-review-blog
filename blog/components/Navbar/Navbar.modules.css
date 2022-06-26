@@ -1,0 +1,30 @@
+.header{
+    min-height: 45vmin;
+    width: 100%;
+    background-color: #2f558d;
+}
+
+.nav-bar-links {
+    display: flex;
+    flex-direction: row;
+    height: 8vmin;
+    background-color: #2f558d;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    line-height: 1vmin;
+    font-size: 1.17em;
+}
+
+.nav-bar-links a, h3 {
+    width: 15%;
+    color: white;
+    text-decoration: none;
+    align-self: center;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
